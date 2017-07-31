@@ -1,0 +1,6 @@
+/src/.vscode
+/src/.vs
+/src/ReadFromArduino/obj
+/src/ReadFromArduino/bin
+/src/ReadSerialInputFromUSB/obj
+/src/ReadSerialInputFromUSB/bin
